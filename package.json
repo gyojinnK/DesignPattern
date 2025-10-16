@@ -1,26 +1,27 @@
 {
-  "name": "design-pattern",
-  "version": "1.0.0",
-  "description": "",
-  "main": ".prettierrc.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gyojinnK/DesignPattern.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/gyojinnK/DesignPattern/issues"
-  },
-  "homepage": "https://github.com/gyojinnK/DesignPattern#readme",
-  "devDependencies": {
-    "typescript": "^5.9.3"
-  },
-  "dependencies": {
-    "live-server": "^1.2.2",
-    "prettier": "^3.6.2"
-  }
+	"name": "design-pattern",
+	"version": "1.0.0",
+	"description": "",
+	"main": ".prettierrc.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"format": "prettier --write ."
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/gyojinnK/DesignPattern.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/gyojinnK/DesignPattern/issues"
+	},
+	"homepage": "https://github.com/gyojinnK/DesignPattern#readme",
+	"devDependencies": {
+		"typescript": "^5.9.3"
+	},
+	"dependencies": {
+		"live-server": "^1.2.2",
+		"prettier": "^3.6.2"
+	}
 }
